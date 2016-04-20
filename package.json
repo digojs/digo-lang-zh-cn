@@ -1,0 +1,15 @@
+{
+  "name": "tpack-lang-zh-cn",
+  "version": "0.0.1",
+  "repository": "http://github.com/digojs/digo-lang-zh-cn",
+  "description": "digo 语言包：中文(简体)",
+  "keywords": [
+    "digo lang",
+    "zh-cn"
+  ],
+  "license": "MIT",
+  "author": "xuld <xuld@vip.qq.com>",
+  "files": [
+    "index.js"
+  ]
+}
