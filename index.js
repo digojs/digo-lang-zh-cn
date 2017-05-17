@@ -1,5 +1,5 @@
 ﻿/**
- * @fileOverview digo 语言包：中文(简体)
+ * @file digo 语言包：中文(简体)
  * @author xuld <xuld@vip.qq.com>
  * @license MIT
  * @see https://github.com/mishoo/UglifyJS2
